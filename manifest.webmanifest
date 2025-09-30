@@ -1,0 +1,7 @@
+{
+  "name": "Vishnu Lamp",
+  "short_name": "Lamp",
+  "display": "fullscreen",
+  "start_url": "./",
+  "icons": []
+}
